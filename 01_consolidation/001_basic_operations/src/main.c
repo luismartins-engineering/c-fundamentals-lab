@@ -89,8 +89,5 @@ int main(){
         printf("\nThe result of the operation is %d\n", result );
     }
 
-    
-    
-
     return 0; 
 }
